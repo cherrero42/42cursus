@@ -21,5 +21,5 @@ My 42 school projects repository
 
 
 <p align="center">
-  <img src="./holy_feb23.jpeg" alt="image"/>
+  <img src="./holy_feb23.jpg" alt="image"/>
 </p>
