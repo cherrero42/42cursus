@@ -17,7 +17,7 @@ My 42 school projects repository
 |get_next_line|File descriptors |   **125** / 100  |
 |minitalk| Signals & processes |   **125** / 100  |
 |push_swap| Sort algorithm |   **125** / 100  |
-|fdf| Graphics (in progress) |   **** / 100  |
+|fdf| 3D Graphics (in progress) |   **** / 100  |
 
 
 
