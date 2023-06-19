@@ -20,7 +20,6 @@ My 42 school projects repository
 |fdf| 3D Graphics (in progress) |   **** / 100  |
 
 
-
 <p align="center">
   <img src="./holygraf.jpg" alt="image"/>
 </p>
