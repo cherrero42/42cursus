@@ -5,3 +5,5 @@ _____________________________________
  
    f   d   f
 _____________________________________
+
+FDF is short for ’fil de fer’ in French which means ’wireframe model’
