@@ -15,6 +15,7 @@ My 42 school projects repository
 |printf| Recoding printf  |   **100** / 100  |
 |born2beroot| Sys Admin  |   **125** / 100  |
 |get_next_line|File descriptors |   **125** / 100  |
+|Exam Rank 02|   |   **100** / 100  |
 |minitalk| Signals & processes |   **125** / 100  |
 |push_swap| Sort algorithm |   **125** / 100  |
 |fdf| 3D Graphics (in progress) |   **** / 100  |
